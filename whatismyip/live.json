@@ -1,8 +1,8 @@
 {
-    "version": 1,
-    "sha256": "97cb20a4e5f667daa0bea98a766fe9866726f93fc3322fb7ee199de093040657",
-    "signature": "ed25519:Cr1Iht5GFJkLEQgpMXY4LZ6qKk7Q5JgxiewEVeQ6nkyq+RfG8oznrB/SRJ93VR3r+rhMG/JC4PZupyO7f9diBw==",
-    "bytes": 948,
-    "published_at": "2026-11-20T21:19:14+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/whatismyip-app-data@4a6a2cc/whatismyip/v1.json"
+    "version": 2,
+    "sha256": "a9778142554af31d281c2f1423e376fabcd5bf2354ad3e6c5b5f2caba05fb062",
+    "signature": "ed25519:TNCian16yfKaJDkLWVmw5UHK5GZjtK9A3k1MCcZj5kHEdoLk0y16TtKGGmSRExhgKDM+nPJkejJxhqTdoTzlAA==",
+    "bytes": 1005,
+    "published_at": "2026-11-21T05:08:48+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/whatismyip-app-data@c09bae4/whatismyip/v2.json"
 }
