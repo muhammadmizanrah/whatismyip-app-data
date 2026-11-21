@@ -1,0 +1,32 @@
+{
+    "schema": 1,
+    "type": "ip_config",
+    "app": "whatismyip",
+    "version": 3,
+    "generated_at": "2026-11-21T05:13:17+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "update_url_android": "https://play.google.com/store/apps/details?id=ipinfo.whatismyipaddress.myip",
+        "update_url_ios": "",
+        "maintenance": false,
+        "maintenance_en": "",
+        "notice_enabled": false,
+        "notice_key": "",
+        "notice_en": "",
+        "notice_url": "",
+        "promo_enabled": false,
+        "promo_key": "",
+        "promo_title_en": "",
+        "promo_body_en": "",
+        "promo_button_en": "",
+        "promo_url": "",
+        "api_base": "https://whatismyipaddress.site/api/",
+        "ads_enabled": true,
+        "ads_banner": true,
+        "ads_native": true,
+        "ads_interstitial": true,
+        "ads_interstitial_gap_sec": 180,
+        "ads_app_open": true
+    }
+}
